@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+IMPLEMENTATION_PLAN.md
+PRD_Word_Identity_Changer.md
